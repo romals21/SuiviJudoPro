@@ -1,0 +1,133 @@
+{
+  "2008_2009": {
+    "Seniors": {"min": 0, "max": 1989},
+    "Juniors": {"min": 1990, "max": 1992},
+    "Cadets": {"min": 1993, "max": 1994},
+    "Minimes": {"min": 1995, "max": 1996},
+    "Benjamins": {"min": 1997, "max": 1998}
+  },
+  "2009_2010": {
+    "Seniors": {"min": 0, "max": 1990},
+    "Juniors": {"min": 1991, "max": 1993},
+    "Cadets": {"min": 1994, "max": 1995},
+    "Minimes": {"min": 1996, "max": 1997},
+    "Benjamins": {"min": 1998, "max": 1999}
+  },
+  "2010_2011": {
+    "Seniors": {"min": 0, "max": 1991},
+    "Juniors": {"min": 1992, "max": 1994},
+    "Cadets": {"min": 1995, "max": 1996},
+    "Minimes": {"min": 1997, "max": 1998},
+    "Benjamins": {"min": 1999, "max": 2000}
+  },
+  "2012_2013": {
+    "Seniors": {"min": 0, "max": 1993},
+    "Juniors": {"min": 1994, "max": 1996},
+    "Cadets": {"min": 1997, "max": 1998},
+    "Minimes": {"min": 1999, "max": 2000},
+    "Benjamins": {"min": 2001, "max": 2002}
+  },
+  "2013_2014": {
+    "Seniors": {"min": 0, "max": 1993},
+    "Juniors": {"min": 1994, "max": 1996},
+    "Cadets": {"min": 1997, "max": 1999},
+    "Minimes": {"min": 2000, "max": 2001},
+    "Benjamins": {"min": 2002, "max": 2003}
+  },
+  "2015": {
+    "Seniors": {"min": 0, "max": 1994},
+    "Juniors": {"min": 1995, "max": 1997},
+    "Cadets": {"min": 1998, "max": 2000},
+    "Minimes": {"min": 2001, "max": 2002},
+    "Benjamins": {"min": 2003, "max": 2004}
+  },
+  "2016": {
+    "Seniors": {"min": 0, "max": 1995},
+    "Juniors": {"min": 1996, "max": 1998},
+    "Cadets": {"min": 1999, "max": 2001},
+    "Minimes": {"min": 2002, "max": 2003},
+    "Benjamins": {"min": 2004, "max": 2005}
+  },
+  "2017": {
+    "Seniors": {"min": 0, "max": 1996},
+    "Juniors": {"min": 1997, "max": 1999},
+    "Cadets": {"min": 2000, "max": 2002},
+    "Minimes": {"min": 2003, "max": 2004},
+    "Benjamins": {"min": 2005, "max": 2006}
+  },
+  "2018_P1": {
+    "desc": "Minimes 1, Benjamins, Poussins (01/09/2017 au 31/08/2018)",
+    "Minimes": {"min": 2005, "max": 2005}, 
+    "Benjamins": {"min": 2006, "max": 2007}
+  },
+  "2018_P2": {
+    "desc": "Cadets, Juniors, Seniors, Minimes 2 (01/01/2018 au 31/08/2018)",
+    "Seniors": {"min": 0, "max": 1997},
+    "Juniors": {"min": 1998, "max": 2000},
+    "Cadets": {"min": 2001, "max": 2003},
+    "Minimes": {"min": 2004, "max": 2004}
+  },
+  "2018_2019": {
+    "Seniors": {"min": 0, "max": 1998},
+    "Juniors": {"min": 1999, "max": 2001},
+    "Cadets": {"min": 2002, "max": 2004},
+    "Minimes": {"min": 2005, "max": 2006},
+    "Benjamins": {"min": 2007, "max": 2008}
+  },
+  "2019_2020": {
+    "Seniors": {"min": 0, "max": 1999},
+    "Juniors": {"min": 2000, "max": 2002},
+    "Cadets": {"min": 2003, "max": 2005},
+    "Minimes": {"min": 2006, "max": 2007},
+    "Benjamins": {"min": 2008, "max": 2009}
+  },
+  "2020_2021": {
+    "Seniors": {"min": 0, "max": 2000},
+    "Juniors": {"min": 2001, "max": 2003},
+    "Cadets": {"min": 2004, "max": 2006},
+    "Minimes": {"min": 2007, "max": 2008},
+    "Benjamins": {"min": 2009, "max": 2010}
+  },
+  "2021_2022": {
+    "Seniors": {"min": 0, "max": 2001},
+    "Juniors": {"min": 2002, "max": 2004},
+    "Cadets": {"min": 2005, "max": 2007},
+    "Minimes": {"min": 2008, "max": 2009},
+    "Benjamins": {"min": 2010, "max": 2011}
+  },
+  "2022_2023": {
+    "Seniors": {"min": 0, "max": 2002},
+    "Juniors": {"min": 2003, "max": 2005},
+    "Cadets": {"min": 2006, "max": 2008},
+    "Minimes": {"min": 2009, "max": 2010},
+    "Benjamins": {"min": 2011, "max": 2012}
+  },
+  "2023_2024": {
+    "Seniors": {"min": 0, "max": 2003},
+    "Juniors": {"min": 2004, "max": 2006},
+    "Cadets": {"min": 2007, "max": 2009},
+    "Minimes": {"min": 2010, "max": 2011},
+    "Benjamins": {"min": 2012, "max": 2013}
+  },
+  "2024_2025": {
+    "Seniors": {"min": 0, "max": 2004},
+    "Juniors": {"min": 2005, "max": 2007},
+    "Cadets": {"min": 2008, "max": 2010},
+    "Minimes": {"min": 2011, "max": 2012},
+    "Benjamins": {"min": 2013, "max": 2014}
+  },
+  "2025_2026": {
+    "Seniors": {"min": 0, "max": 2005},
+    "Juniors": {"min": 2006, "max": 2008},
+    "Cadets": {"min": 2009, "max": 2011},
+    "Minimes": {"min": 2012, "max": 2013},
+    "Benjamins": {"min": 2014, "max": 2015}
+  },
+  "2026_2027": {
+    "Seniors": {"min": 0, "max": 2006},
+    "Juniors": {"min": 2007, "max": 2009},
+    "Cadets": {"min": 2010, "max": 2012},
+    "Minimes": {"min": 2013, "max": 2014},
+    "Benjamins": {"min": 2015, "max": 2016}
+  }
+}

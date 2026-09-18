@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+# Ne jamais publier tes identifiants Google
+suivijudopro-*.json
+.streamlit/secrets.toml
+
+# Données locales (elles vivent maintenant dans Google Sheets)
+data_judokas/
